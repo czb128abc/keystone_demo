@@ -1,6 +1,9 @@
 
 #[阮老师笔记](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
 
+
+
+
 我每天使用 Git ，但是很多命令记不住。
 一般来说，日常使用只要记住下图6个命令，就可以了。但是熟练使用，恐怕要记住60～100个命令。
 ![git](git.png "git")
